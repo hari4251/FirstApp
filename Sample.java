@@ -3,6 +3,7 @@
 //comment added to existing program
 class Sum1
 {
+//read the actual parameters 
 int a,b,c;
 void set()
 {
