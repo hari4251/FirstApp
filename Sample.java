@@ -12,6 +12,7 @@ b=20;
 }
 void accept()
 {
+//accept the values
 c=a+b;
 }
 void disp()
